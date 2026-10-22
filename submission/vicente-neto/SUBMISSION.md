@@ -1,9 +1,9 @@
-# Submissão — [Seu Nome] — Challenge 001
+# Submissão — Vicente Neto — Challenge 001
 
 ## Sobre mim
 
-- **Nome:** [Seu Nome]
-- **LinkedIn:** [link do seu LinkedIn]
+- **Nome:** Vicente Neto
+- **LinkedIn:** https://www.linkedin.com/in/vsneto
 - **Challenge escolhido:** 001 — Diagnóstico de Churn (RavenStack, Dados / Analytics)
 
 ---
